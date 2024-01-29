@@ -66,3 +66,6 @@ Marka aad heshay natiijooyinka tababarka iyo qiimeynta modelkaaga 'Random Forest
 7. **Warbixinta iyo Bandhigidda Natiijooyinka**: Haddii loo baahdo, diyaari warbixinno ama bandhigyo ku saabsan waxqabadka modelka iyo natiijooyinka aad ka heshay, gaar ahaan haddii mashruucani yahay qayb ka mid ah cilmi-baaris ama hawlo ganacsi.
 
 Xusuusnow, mar walba waa muhiim in la tixgeliyo arrimaha sida saxda ah ee modelka loo dabaqayo iyo in la hubiyo inuu si cadaalad ah u shaqeynayo, gaar ahaan marka la isticmaalayo xog xasaasi ah sida xogta caafimaadka.
+
+Halkan Ka Akhri Xogta oo Intan Ka Faahfaahsan
+https://github.com/Ali56Arif/Heart-Disease-Prediction-UC/blob/main/Faah%20Faahin.md
