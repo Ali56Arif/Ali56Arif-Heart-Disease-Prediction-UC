@@ -36,7 +36,32 @@ y_pred = rf_classifier.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Saxnaanta Modelka: {accuracy}")
 print(classification_report(y_test, y_pred))
+
+
 ![image](https://github.com/Ali56Arif/Ali56Arif-Heart-Disease-Prediction-UC/assets/79138028/c5ac9df3-c0ae-4be8-9a95-a06a15141cf1)
+
 
 Halkan Ka eeg
 https://www.kaggle.com/code/ali56arif/heart-d
+
+
+Marka aad heshay natiijooyinka tababarka iyo qiimeynta modelkaaga 'Random Forest Classifier', waxaa jira dhowr talaabo oo aad qaadi karto si aad u sii horumariso ama u dabaqdo modelkaaga:
+
+1. **Hagaajinta Modelka**: Haddii aad rabto inaad sii hagaajiso waxqabadka modelka, waxaad isku dayi kartaa:
+   - Isbeddelka xuduudaha modelka, sida `n_estimators`, `max_depth`, `min_samples_split`, iwm.
+   - Isticmaalka feature engineering si aad u abuurto ama u doorato sifooyinka saameynta ugu badan ku leh saadaasha.
+   - Tijaabinta hababka kala duwan ee xogta loo nadiifiyo ama loo beddelo.
+
+2. **Cross-Validation**: Isticmaal cross-validation si aad u hubiso in modelkaagu si joogto ah u shaqeynayo oo uusan ku dhicin xad-dhaaf ama xad-gudub hoose.
+
+3. **Tijaabinta Modello Kale**: Haddii aad rabto inaad aragto sida modello kale u shaqeeyaan xogtaada, waxaad tijaabin kartaa modello kala duwan sida 'Logistic Regression', 'Support Vector Machines', ama 'Gradient Boosting Classifiers'.
+
+4. **Fahamka Waxqabadka Modelka**: Falanqee natiijooyinka si aad u fahamto meelaha uu modelkaagu ku xooggan yahay iyo meelaha uu ka liito. Tani waxaa ka mid noqon kara fahamka muhiimadda sifooyinka iyo sidoo kale falanqeynta qaladaadka noocyada kala duwan (sida qaladaadka nooca koowaad iyo labaad).
+
+5. **Dabaqidda Modelka Xaaladaha Dhabta ah**: Haddii aad ku qanacsan tahay waxqabadka modelka, waxaad tijaabin kartaa inaad ku dabaqdo xaalado dhab ah ama xog cusub oo aan horay loo arag.
+
+6. **Kaydinta iyo Dib-u-isticmaalka Modelka**: Kaydi modelka si aad ugu isticmaasho mustaqbalka iyadoo aan loo baahnayn in mar kale la tababaro. Tani waxay faa'iido u leedahay haddii aad rabto inaad ku dabaqdo modelka xog cusub.
+
+7. **Warbixinta iyo Bandhigidda Natiijooyinka**: Haddii loo baahdo, diyaari warbixinno ama bandhigyo ku saabsan waxqabadka modelka iyo natiijooyinka aad ka heshay, gaar ahaan haddii mashruucani yahay qayb ka mid ah cilmi-baaris ama hawlo ganacsi.
+
+Xusuusnow, mar walba waa muhiim in la tixgeliyo arrimaha sida saxda ah ee modelka loo dabaqayo iyo in la hubiyo inuu si cadaalad ah u shaqeynayo, gaar ahaan marka la isticmaalayo xog xasaasi ah sida xogta caafimaadka.
