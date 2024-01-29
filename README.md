@@ -1,4 +1,5 @@
-Modelka 'Random Forest Classifier' ee aan tababarnay waxa uu leeyahay saxnaan ah 82.42%. Warbixinta classification-ka waxa ay bixisaa faahfaahin dheeraad ah oo ku saabsan waxqabadka modelka:
+Halkan Waxa aan kusoo Gudbinyaa Machine Learning Model aan tababrey, Machine Learning kani wuxuu saadaalinayaa wada xanuunka, Data Setka waxaan kasoo qaatey Jaamacadda California Data Set ay leedahay oo Wada xanuunka oo ku Jira Kaggle, waxaana adeegsadey Random Forest Classifier Model.
+Modelka 'Random Forest Classifier' ee aan tababarnay waxa uu leeyahay saxnaan ah 82.42%. Warbixinta classification-ku waxa ay bixinaysaa faahfaahin dheeraad ah oo ku saabsan waxqabadka modelka:
 
 - **Precision**: Qiyaasta saxda ah ee saadaalinta togan. Tusaale ahaan, precision-ka saadaalinta xaaladda wadnaha ('1') waa 84%, taasoo macnaheedu yahay in 84% saadaalinta wadnaha ee modelku uu sameeyay ay ahaayeen kuwo sax ah.
 - **Recall**: Waa saamiga saadaalinta togan ee dhab ahaantii sax ah. Tusaale ahaan, recall-ka saadaalinta wadnaha ('1') waa 84%, taasoo tilmaamaysa in modelku uu si sax ah u qabtay 84% kiisaska dhabta ah ee wadnaha.
