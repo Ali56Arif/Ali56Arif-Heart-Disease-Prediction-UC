@@ -70,7 +70,9 @@ Kala Qaybinta Xogta: Qaybinta xogta u dhexeysa xogta tababarka iyo xogta tijaaba
 Tababarka Modelka 'Random Forest Classifier': Isticmaalka xogta tababarka si loo tababaro modelka.
 
 Qiimeynta Modelka: Isticmaalka xogta tijaabada si loo qiimeeyo waxqabadka modelka.
-##########################
+
+################################################
+
 Si aad ugu dabaqdo modelkaaga 'Random Forest Classifier' cusbitaalka, tusaale Cusbitaalka magaalada Burco, waxaa muhiim ah inaad raacdo dhowr talaabo oo lagama maarmaan ah si loo hubiyo in modelkaagu si wax ku ool ah u shaqeynayo isla markaana u adeegsan karo baahida caafimaad ee deegaankaas:
 
 1. **Fahamka Xogta Cusub**: Hubi in xogta laga heli karo cusbitaalka magaalada Burco ay la jaan qaadi karto qaabka iyo nooca xogta aad u adeegsatay tababarka modelkaaga. Tani waxaa ka mid noqon kara in la heli karo isla sifooyinka caafimaad ee aad isticmaashay.
@@ -88,7 +90,9 @@ Si aad ugu dabaqdo modelkaaga 'Random Forest Classifier' cusbitaalka, tusaale Cu
 7. **Wadashaqeyn lala yeesho Khubarada Caafimaadka**: Si joogto ah ula shaqee dhakhaatiirta iyo khubarada caafimaadka si aad u hubiso in modelkaaga uu wax ku ool u yahay baahiyaha caafimaad ee maxalliga ah iyo inuu bixinayo natiijooyin macquul ah.
 
 xusuusnow in isticmaalka modelada barashada mashiinka ee go'aamada caafimaadku ay yihiin caawimaad dheeri ah oo aan beddeli karin go'aanka iyo aqoonta xirfadeed ee dhakhaatiirta iyo khubarada caafimaadka. Modelka waa in loo arkaa sida qalab taageero ah oo ka caawiya go'aan-qaadashada, halkii laga arki lahaa mid go'aanka kama dambeysta ah sameeya.
-##################
+
+###############################################
+
 Modelka 'Random Forest Classifier' ee loo adeegsaday xogta wadnaha wuxuu leeyahay faa'iidooyin iyo adeegsiyo kala duwan, gaar ahaan marka la eego goobaha caafimaadka. Waxaa jira dhowr siyaabood oo muhiim ah oo modelkan loo isticmaali karo:
 
 1. **Saadaalinta Xaaladaha Caafimaad**: Modelkan waxaa loo isticmaali karaa in lagu saadaaliyo halista cudurada wadnaha ee bukaanada. Tani waxay ka caawin kartaa dhakhaatiirta inay aqoonsadaan bukaanada khatar sare ugu jira xaaladaha wadnaha, taasoo u oggolaaneysa in la qaado tallaabooyin ka hortag ah ama la bilaabo daaweyn hore.
