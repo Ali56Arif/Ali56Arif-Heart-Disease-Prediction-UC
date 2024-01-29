@@ -43,7 +43,7 @@ Tiirka `target` waa bartilmaameedka (target variable), kaasoo muujinaya haddii q
 import pandas as pd
 
 # Loading the heart dataset
-file_path = '/mnt/data/heart.csv'
+file_path = 'https://github.com/Ali56Arif/Ali56Arif-Heart-Disease-Prediction-UC/blob/main/heart.csv'
 heart_data = pd.read_csv(file_path)
 
 # Displaying the first few rows of the dataset to understand its structure and content
