@@ -19,7 +19,7 @@ ca: Tirada weyn ee xididdada wadnaha ee la arki karo.
 thal: Cilad (3 = normal; 6 = fixed defect; 7 = reversible defect).
 Tiirka target waa bartilmaameedka (target variable), kaasoo muujinaya haddii qofku qabo xaalad wadnaha ah (1 = haa, 0 = maya).
 
-Haa, waxaan isticmaali karnaa dataset-ka cusub ee 'heart.csv' si aan u tababarno model. Dataset-kan waa mid ka yar oo laga yaabo inuu ka fudud yahay in la maareeyo marka loo eego dataset-ka duumada ee weynaa. Aan marka hore eegno waxa ku jira dataset-kan cusub ka dibna aan sameyno falanqeyn iyo tababar model. 
+waxaan isticmaali karnaa dataset-ka cusub ee 'heart.csv' si aan u tababarno model.  Aan marka hore eegno waxa ku jira dataset-kan cusub ka dibna aan sameyno falanqeyn iyo tababar model. 
 
 Waxaan billaabayaa adigoo faylka xogta akhrinaya si aan u fahmo qaab dhismeedkiisa iyo nooca xogta uu ka kooban yahay. Kadibna, waxaan bixin doonaa talooyin ku saabsan sida loo isticmaalo xogtan si loo tababaro model Machine Learning ah. Aan ku bilaabo koodhkan:
 
